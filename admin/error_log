@@ -1,0 +1,1 @@
+[26-Jan-2019 18:05:20 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/pokemonfirst/public_html/admin/conn.php on line 7
